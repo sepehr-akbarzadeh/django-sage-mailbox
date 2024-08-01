@@ -4,8 +4,8 @@ with open("README.md", encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
-    name="djang_sage_mailbox",
-    version="0.1.0",
+    name="django_sage_mailbox",
+    version="0.1.3",
     author="Sepehr Akbarzadeh",
     author_email="info@sageteam.org",
     description="Managing IMAP connections and performing various email operations.",
